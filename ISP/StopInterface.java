@@ -1,0 +1,3 @@
+interface StopInterface {
+    void StopInt();
+}
